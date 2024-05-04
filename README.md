@@ -4,7 +4,7 @@
 <br />
 <h1>
 <p align="center">
-  <img src="../img/logo.png" alt="Logo" width="216" height="198">
+  <img src="./img/logo.png" alt="Logo" width="216" height="198">
   <br>Anonysaurus 🦕
 </h1>
   <p align="center">
